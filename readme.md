@@ -1,6 +1,6 @@
 # **LeakGuard** - 检查你的邮箱和密码
 
-​																											![](https://badgen.net/github/stars/AgonySec/Pwned_tool)![GitHub download counter](https://img.shields.io/github/downloads/AgonySec/Pwned_tool/total)
+​																											![](https://badgen.net/github/stars/AgonySec/LeakGuard)![GitHub download counter](https://img.shields.io/github/downloads/AgonySec/LeakGuard/total)
 
 [English][url-docen]
 
@@ -109,6 +109,6 @@ options:
 
 ---
 
-　　感谢使用 pwned_tool！
+　　欢迎使用！ 
 
 [url-docen]: README_EN.md
