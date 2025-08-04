@@ -81,7 +81,7 @@ options:
 #### Graphical User Interface (GUI)
 
 Run the GUI version:
-![image-20250804101810612](assets\image-20250804101810612.png)
+![image-20250804112840594](assets/image-20250804112756279.png)
 
 ```
 python gui.py

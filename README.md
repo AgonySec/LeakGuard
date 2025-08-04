@@ -99,7 +99,7 @@ options:
 #### 图形用户界面（GUI）
 
 运行图形界面版本：
-![image-20250804101810612](assets\image-20250804101810612.png)
+![image-20250804112756279](assets/image-20250804112756279.png)
 
 ```python
  python gui.py
