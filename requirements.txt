@@ -1,6 +1,29 @@
+# 核心网络请求库
 requests~=2.32.3
-openpyxl~=3.1.5
 urllib3~=2.2.3
+
+# 数据处理和输出格式
 pandas~=2.2.3
+openpyxl~=3.1.5
+
+# 网络代理支持
 PySocks~=1.7.1
+
+# 网页解析
 beautifulsoup4~=4.12.3
+
+# GUI 依赖 (在某些系统上需要显式安装)
+tkinter~=0.1.0; python_version < "3.10"
+tkinter; python_version >= "3.10"
+
+# 日志处理增强 (如果需要更高级的日志功能)
+# logging~=0.4.9
+
+# 并发处理 (标准库，但可以指定版本)
+# concurrent.futures~=3.0.0
+
+# 哈希处理 (标准库)
+# hashlib~=3.0.0
+
+# JSON 处理 (标准库)
+# json~=2.0.9
