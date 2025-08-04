@@ -1,11 +1,8 @@
-# gui.py - LeakGuard GUI 界面
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import threading
 import logging
 import sys
-from io import StringIO
-from main import parse_arguments
 from LeakGuard.google_search import search_google
 from LeakGuard.github_search import search_github
 from LeakGuard.email_leak import check_one_email, batch_process_emails_for
@@ -29,7 +26,7 @@ class TextRedirector:
 class LeakGuardGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("LeakGuard - 泄露检测工具")
+        self.root.title("LeakGuard - 综合性泄露检测工具 By AgonySec")
         self.root.geometry("900x750")
         self.root.minsize(800, 600)
 
